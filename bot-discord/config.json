@@ -1,0 +1,15 @@
+{
+  "growscan": {
+    "ownerId": "729992150435233802",
+    "growscanChannel": "1473558548934951096",
+    "statusChannel": "1473914334672457869",
+    "isBotOnline": false,
+    "ApiLink": "127.0.0.1:5000",
+    "ApiKey": "kontol",
+    "mongo_uri": "mongodb+srv://xxx/Growscan?retryWrites=true&w=majority",
+    "token": "token bot",
+    "botID": "1397037169863819284",
+    "serverID": "1390847062718939167",
+    "iconURL": "https://cdn.discordapp.com/icons/1390847062718939167/27faa0be8a233ae3d677642389412a88.webp?size=240&quality=lossless"
+  }
+}
